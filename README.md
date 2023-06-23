@@ -4,42 +4,42 @@
 #### Tentativa de programação do jogo, falta colocar os layouts e os elementos gráficos, o sistema de misturar cores também não está a funcionar como deveria, não tem sistema de power-up.
 ##### Foi utilizado chat-gpt para a programação do que seria o conceito do jogo.
 
-
 ##### imagem do codigo do jogo em pdf
  ![imagem de codigo](letfood.pdf) 
-
-
 
  ![imagem da banana](10.png)  
  ##### Banana
  ![imagem ](22.png) 
  ##### imagem da cobra a comer a banana
+
  ## Banana- dá velocidade 
 
-
-                                                                             
+                                                                         
 ![imagem da melancia](11.png)    
 ##### Melancia
+
 ![imagem da melancia](23.png)   
 #####  imagem da cobra depois de comer a melancia
 ###### Cobra depois de comer a melancia, fica verde(da cor original) 
                                                            
 ![imagem da melancia](34.png)   
-
-                                                                                
+                                                                           
 ## Melancia - A Cobra volta à cor original  
 
                                                                                 
 ![imagem do coco](13.png) 
+
 ##### Coco
-![imagem do coco](25.png)   
-##### imagem da cobra castanha a comer o coco 
-###### Cobra morta por ter comido o coco                                                           
-![imagem do coco](26.png)   
-                                                                               
+
+![imagem do coco](25.png)  
+
+##### imagem da cobra castanha a comer o coco
+
+###### Cobra morta por ter comido o coco
+
+![imagem do coco](26.png)                                                                               
                                                                                 
 ## Coco- Mata a cobra
-
 
  ## Cobra                                                                                
 ![imagem da cobra](19.png) 
@@ -71,7 +71,6 @@
 A cobra segue em direção oposta à posição do cursor como se dele estivesse a fugir. 
 ![imagem do jogo](27.png) 
 ![imagem do jogo](28.png) 
-
 
  ### imagem da LISTA da combinção de cores    
 ![imagem do jogo](31.png) 
