@@ -48,7 +48,7 @@ imagem da cobra png
 ## Maçã Amarela
  !                                                                               [imagem da maça](7.png)      
 ## Maçã verde
- !                                                                               [imagem da maça](5.png)      
+ ![imagem da maça](5.png)      
 ## Maçã Azul
 
 
