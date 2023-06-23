@@ -42,17 +42,17 @@ imagem da cobra png
 ## Cobra
 
 
- !                                                                               [imagem da maçã](4.png)      
+ ! [imagem da maçã](4.png)      
 ## Maçã Vermelha
- !                                                                               [imagem da maça](6.png)      
+ ![imagem da maça](6.png)      
 ## Maçã Amarela
- !                                                                               [imagem da maça](7.png)      
+ ![imagem da maça](7.png)      
 ## Maçã verde
  ![imagem da maça](5.png)      
 ## Maçã Azul
 
 
-                                                             IMAGEM do layout do inicio do jogo
+!                        [imagem do jogo](1.png) 
 #                                           Tela inicial do jogo, consiste em 3 botões que se pode interagir:
 
 #### *HIGHSCORE - Mostra a tabela de melhore pontuações
