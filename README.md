@@ -19,7 +19,7 @@
 
                                                                                 imagem da cobra castanha a comer a melancia
                                                                                  Cobra amarela antes de comer a melancia
-       imagem da melancia 
+![imagem da melancia](11.png)      
                                                                                  imagem da cobra depois de comer a melancia 
                                                                                  Cobra depois de comer a melancia, fica verde(da cor original)
 
@@ -27,7 +27,7 @@
 
                                                                                 imagem da cobra castanha a comer o coco
                                                                                 Cobra antes de comer o coco
-       imagem do coco   
+![imagem do coco](13.png)      
                                                                                 imagem da cobra após comer o coco
                                                                                 Cobra morta por ter comido o coco
                                                                                 
@@ -42,13 +42,13 @@ imagem da cobra png
 ## Cobra
 
 
-                                                                                 imagem da maçã vermelha
+ !                                                                               [imagem da maçã](4.png)      
 ## Maçã Vermelha
-                                                                                 imagem da maça amarela
+ !                                                                               [imagem da maça](6.png)      
 ## Maçã Amarela
-                                                                                 imagem da maçã em verde
+ !                                                                               [imagem da maça](7.png)      
 ## Maçã verde
-                                                                                 imagem da maçã em azul
+ !                                                                               [imagem da maça](5.png)      
 ## Maçã Azul
 
 
