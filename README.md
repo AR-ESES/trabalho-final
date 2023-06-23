@@ -11,18 +11,26 @@
 
 
 
-######![imagem ](22.png) 
- ![imagem da banana](10.png)                                                        
-![imagem ](22.png) \\
+ 
+ ![imagem da banana](10.png)  
+ ##### Banana
+ ![imagem ](22.png) 
+ ##### imagem da cobra a comer a banana
  ## Banana- dá velocidade 
 
 
 
                                                                                 imagem da cobra castanha a comer a melancia
                                                                                  Cobra amarela antes de comer a melancia
-![imagem da melancia](11.png)      
+![imagem da melancia](11.png)    
+##### Melancia
+![imagem da melancia](23.png)   
+#####  imagem da cobra depois de comer a melancia 
+###### Cobra depois de comer a melancia, fica verde(da cor original)                                                             
+![imagem da melancia](26.png)   
+
                                                                                  imagem da cobra depois de comer a melancia 
-                                                                                 Cobra depois de comer a melancia, fica verde(da cor original)
+                                                                  Cobra depois de comer a melancia, fica verde(da cor original)
 
 ## Melancia - A Cobra volta à cor original  
 
