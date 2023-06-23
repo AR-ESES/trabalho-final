@@ -5,8 +5,7 @@
 ##### Foi utilizado chat-gpt para a programação do que seria o conceito do jogo.
 
 
- imagem do codigo ou codigo do jogo como preferires
-
+![imagem de codigo](letfood.pdf) 
         imagem da banana                                                             imagem da cobra a comer a banana
         
  ## Banana- dá velocidade 
