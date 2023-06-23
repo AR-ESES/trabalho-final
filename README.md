@@ -26,7 +26,7 @@
 #####  imagem da cobra depois de comer a melancia
 ###### Cobra depois de comer a melancia, fica verde(da cor original) 
                                                            
-![imagem da melancia](24.png)   
+![imagem da melancia](34.png)   
 
                                                                                 
 ## Melancia - A Cobra volta à cor original  
