@@ -68,7 +68,7 @@
 
                
 ## Movimento do personagem:
-A cobra segue em direção oposta à posição do cursor como se dele estivesse a fugir. 
+#### A cobra segue em direção oposta à posição do cursor como se dele estivesse a fugir. 
 ![imagem do jogo](27.png) 
 ![imagem do jogo](28.png) 
 
