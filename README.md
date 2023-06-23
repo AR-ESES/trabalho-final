@@ -76,4 +76,4 @@ Ao clicar na tecla C ou clicar no botão ‘’COMBINAÇÕES’’ presente na t
 #                                                                 Merchandising
 
 
-![imagem](Untitled design (2).pdf)                           ![imagem](15.pdf) 
+![imagem](tshirt.png)                           ![imagem](15.pdf) 
