@@ -10,8 +10,6 @@
 
 
 
-
- 
  ![imagem da banana](10.png)  
  ##### Banana
  ![imagem ](22.png) 
@@ -42,12 +40,13 @@
                                                                                 
 ## Coco- Mata a cobra
 
-                                                                                 imagem da cobra com direções
 
+ ## Cobra                                                                                
 ![imagem da cobra](19.png) 
-                                                                                 imagem da cobra com direções
-
-## Cobra
+                                                                                 
+#### Várias direções dentro do jogo
+![imagem da cobra](27.png)
+![imagem da cobra](28.png)
 
 
  ![imagem da maçã](4.png)      
@@ -60,7 +59,7 @@
 ## Maçã Azul
 
 
-![imagem do jogo](1.png) 
+![imagem do jogo](30.png) 
 #                                           Tela inicial do jogo, consiste em 3 botões que se pode interagir:
 
 #### *HIGHSCORE - Mostra a tabela de melhore pontuações
@@ -72,7 +71,10 @@
 ## Movimento do personagem:
 A cobra segue em direção oposta à posição do cursor como se dele estivesse a fugir. 
 
-           imagem da LISTA da combinção de cores                      imagem da conjução/combinação das cores
+ ### imagem da LISTA da combinção de cores    
+![imagem do jogo](31.png) 
+ ### imagem da conjução/combinação das cores
+![imagem do jogo](32.png) 
 
 ## Lista de Combinações:
 Ao clicar na tecla C ou clicar no botão ‘’COMBINAÇÕES’’ presente na tela inicial irá levar a uma tela onde pode clicar em qual das combinações de cor quer ver.
