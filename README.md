@@ -75,5 +75,8 @@ Ao clicar na tecla C ou clicar no botão ‘’COMBINAÇÕES’’ presente na t
 
 #                                                                 Merchandising
 
+## Mock-up T-Shirt
+![imagem](shirt.png)    
 
-!!![imagem](shirt.png)                                                                  !!![imagem](15.png) 
+## Mock-up Chapéu 
+![imagem](15.png) 
