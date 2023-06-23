@@ -23,9 +23,10 @@
 ![imagem da melancia](11.png)    
 ##### Melancia
 ![imagem da melancia](23.png)   
-#####  imagem da cobra depois de comer a melancia,###### Cobra depois de comer a melancia, fica verde(da cor original) 
+#####  imagem da cobra depois de comer a melancia
+###### Cobra depois de comer a melancia, fica verde(da cor original) 
                                                            
-![imagem da melancia](224.png)   
+![imagem da melancia](24.png)   
 
                                                                                 
 ## Melancia - A Cobra volta à cor original  
@@ -34,7 +35,8 @@
 ![imagem do coco](13.png) 
 ##### Coco
 ![imagem do coco](25.png)   
-##### imagem da cobra castanha a comer o coco ###### Cobra morta por ter comido o coco                                                           
+##### imagem da cobra castanha a comer o coco 
+###### Cobra morta por ter comido o coco                                                           
 ![imagem do coco](26.png)   
                                                                                
                                                                                 
