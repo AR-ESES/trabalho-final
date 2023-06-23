@@ -48,6 +48,7 @@
 ![imagem da cobra](27.png)
 ![imagem da cobra](28.png)
 
+# Cores das maçãs
 
  ![imagem da maçã](4.png)      
 ## Maçã Vermelha
@@ -59,6 +60,7 @@
 ## Maçã Azul
 
 
+# Layout Inicial
 ![imagem do jogo](30.png) 
 #                                           Tela inicial do jogo, consiste em 3 botões que se pode interagir:
 
