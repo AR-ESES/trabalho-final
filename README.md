@@ -19,26 +19,24 @@
  ## Banana- dá velocidade 
 
 
-
-                                                                                imagem da cobra castanha a comer a melancia
-                                                                                 Cobra amarela antes de comer a melancia
+                                                                             
 ![imagem da melancia](11.png)    
 ##### Melancia
 ![imagem da melancia](23.png)   
-#####  imagem da cobra depois de comer a melancia 
-###### Cobra depois de comer a melancia, fica verde(da cor original)                                                             
-![imagem da melancia](26.png)   
+#####  imagem da cobra depois de comer a melancia,###### Cobra depois de comer a melancia, fica verde(da cor original) 
+                                                           
+![imagem da melancia](224.png)   
 
-                                                                                 imagem da cobra depois de comer a melancia 
-                                                                  Cobra depois de comer a melancia, fica verde(da cor original)
-
+                                                                                
 ## Melancia - A Cobra volta à cor original  
 
-                                                                                imagem da cobra castanha a comer o coco
-                                                                                Cobra antes de comer o coco
-![imagem do coco](13.png)      
-                                                                                imagem da cobra após comer o coco
-                                                                                Cobra morta por ter comido o coco
+                                                                                
+![imagem do coco](13.png) 
+##### Coco
+![imagem do coco](25.png)   
+##### imagem da cobra castanha a comer o coco ###### Cobra morta por ter comido o coco                                                           
+![imagem do coco](26.png)   
+                                                                               
                                                                                 
 ## Coco- Mata a cobra
 
