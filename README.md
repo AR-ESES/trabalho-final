@@ -66,10 +66,12 @@
 #### *COMBINAÇÕES - Combinações de cores e os seus resultados
 #### *PLAY - Começa o jogo
 
-           imagem da cobra com direções dentro do jogo           imagem da cobra com direções dentro do jogo
-
+               
 ## Movimento do personagem:
 A cobra segue em direção oposta à posição do cursor como se dele estivesse a fugir. 
+![imagem do jogo](27.png) 
+![imagem do jogo](28.png) 
+
 
  ### imagem da LISTA da combinção de cores    
 ![imagem do jogo](31.png) 
