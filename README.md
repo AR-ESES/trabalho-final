@@ -35,8 +35,7 @@
 
                                                                                  imagem da cobra com direções
 
-imagem da cobra png 
-
+![imagem da cobra](19.png) 
                                                                                  imagem da cobra com direções
 
 ## Cobra
@@ -77,4 +76,4 @@ Ao clicar na tecla C ou clicar no botão ‘’COMBINAÇÕES’’ presente na t
 #                                                                 Merchandising
 
 
-imagem dos mock-ups
+![imagem](Untitled design (2).pdf)                           ![imagem](15.pdf) 
