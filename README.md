@@ -72,9 +72,9 @@
 ![imagem do jogo](27.png) 
 ![imagem do jogo](28.png) 
 
- ### imagem da LISTA da combinção de cores    
+ ### LISTA da combinção de cores    
 ![imagem do jogo](31.png) 
- ### imagem da conjução/combinação das cores
+ ### Conjução/combinação das cores
 ![imagem do jogo](32.png) 
 
 ## Lista de Combinações:
